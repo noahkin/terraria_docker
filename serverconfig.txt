@@ -1,0 +1,10 @@
+autocreate=3
+seed=gooseboys
+worldname=Gooseboys
+difficulty=0
+maxplayers=255
+port=7777
+password=basin
+motd=honk
+language=en-US
+priority=1
